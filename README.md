@@ -32,16 +32,22 @@ v)Package Diagram
 vi)Sequence Diagram
 # DIAGRAMS:
 USECASE DIAGRAM
-![alt text](UseCaseDiagram1.jpg)
+![image](https://github.com/user-attachments/assets/b87fedd4-4349-4419-a283-e6e9fff8a1ec)
+
 CLASS DIAGRAM
-![alt text](ClassDiagram1.jpg)
+![image](https://github.com/user-attachments/assets/bbca17f1-b2ff-4420-a62a-a66a4990f1e8)
+
 ACTIVITY DIAGRAM
-![alt text](ActivityDiagram1.jpg)
+![image](https://github.com/user-attachments/assets/267cb67c-c6e0-438a-8ad9-dd057c9f21ef)
+
 COMMUNICATION DIAGRAM
-![alt text](CommunicationDiagram1.jpg)
+![image](https://github.com/user-attachments/assets/a7072077-56d6-42fa-b321-03e5b43ab89e)
+
 PACKAGE DIAGRAM
-![alt text](PackageDiagram1.jpg)
+![image](https://github.com/user-attachments/assets/54e333ca-714f-47a9-831f-a4cba19e3b30)
+
 SEQUENCE DIAGRAM
-![alt text](SequenceDiagram1.jpg)
+![image](https://github.com/user-attachments/assets/7488a745-27b1-4bc3-9bf9-6b8bd182e418)
+
 # RESULT:
 Thus, the "ATM & BANKING SYSTEM" project created,executed & the output was verified
